@@ -19,6 +19,7 @@ I created an interactive Executive HR Dashboard in Tableau to analyze key workfo
 
 ## Dashoard Working
 <img width="1440" height="813" alt="Dashboard screenshot" src="https://github.com/Siddharth-cyber6/Executive-HR-Dashboard/blob/main/Tableau%20-%20HR%20Analytics%20Dashboard%20-%20Tableau%20license%20expires%20in%2010%20days%202025-11-25%2018-08-09.mp4" />
+
 ## Project Insight
 - The organization has a total of 1,470 employees, among which 237 employees have left, resulting in an attrition rate of 16.12%.
 - The Sales and R&D departments show the highest attrition, indicating potential workload or satisfaction issues.
